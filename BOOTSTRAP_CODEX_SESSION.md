@@ -2,7 +2,7 @@
 
 Status: repository-local clean-session entrypoint
 
-Repository: `pcvantol/djconnect-pi-releases`
+Repository: `djconnect-music-dj/djconnect-pi-releases`
 
 ## Purpose
 
