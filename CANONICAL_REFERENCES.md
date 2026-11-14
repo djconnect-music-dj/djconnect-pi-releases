@@ -2,7 +2,7 @@
 
 Status: repository-local canonical reference map
 
-Repository: `pcvantol/djconnect-pi-releases`
+Repository: `djconnect-music-dj/djconnect-pi-releases`
 
 This repository extends the DJConnect Platform Foundation. It does not redefine
 it.
@@ -74,7 +74,7 @@ Canonical foundation documents include:
 
 ## Local Technical Design Ownership
 
-- Canonical repository: `pcvantol/djconnect-pi-releases` for repository-specific technical
+- Canonical repository: `djconnect-music-dj/djconnect-pi-releases` for repository-specific technical
   design, implementation, build, release and test details.
 - Local responsibility: maintain implementation reality for public Raspberry Pi release artifacts, release metadata and localized release/install copy stored in this repository or attached to releases.
 - May this repository modify it: yes, within its ownership boundary.

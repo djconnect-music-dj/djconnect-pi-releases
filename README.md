@@ -82,7 +82,7 @@ updater reads `/opt/djconnect/config/client.json`, including:
 
 ```json
 {
-  "update_repo": "pcvantol/djconnect-pi-releases",
+  "update_repo": "djconnect-music-dj/djconnect-pi-releases",
   "update_channel": "stable"
 }
 ```
@@ -105,7 +105,7 @@ Expected flow:
 To inspect the latest releases:
 
 ```sh
-gh release list --repo pcvantol/djconnect-pi-releases
+gh release list --repo djconnect-music-dj/djconnect-pi-releases
 ```
 
 To test an installed Pi updater without installing:
