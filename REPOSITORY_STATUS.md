@@ -4,7 +4,7 @@ Status: Active release-artifact repository
 
 ## Repository
 
-`pcvantol/djconnect-pi-releases`
+`djconnect-music-dj/djconnect-pi-releases`
 
 ## Role
 
