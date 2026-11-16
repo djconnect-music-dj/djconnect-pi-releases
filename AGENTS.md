@@ -31,7 +31,7 @@ Canonical source files live in `pcvantol/djconnect`:
 
 ## Rules
 
-- Keep artifacts traceable to source commits in `pcvantol/djconnect-pi`.
+- Keep artifacts traceable to source commits in `djconnect-music-dj/djconnect-pi`.
 - Do not publish signing secrets, tokens, private user data or Home Assistant credentials.
 - Release notes should be user-facing and use official product language.
 - Do not fork roadmap or sync prompts locally.
