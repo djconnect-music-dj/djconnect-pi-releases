@@ -128,7 +128,7 @@ passwords.
 ## Related Links
 
 - Website: [https://djconnect.pages.dev](https://djconnect.pages.dev)
-- Home Assistant integration: [pcvantol/djconnect](https://github.com/pcvantol/djconnect)
+- Home Assistant integration: [djconnect-music-dj/djconnect](https://github.com/djconnect-music-dj/djconnect)
 - ESP firmware releases: [djconnect-music-dj/djconnect-firmware](https://github.com/djconnect-music-dj/djconnect-firmware)
 - Apple app releases: [djconnect-music-dj/djconnect-app-releases](https://github.com/djconnect-music-dj/djconnect-app-releases)
 
